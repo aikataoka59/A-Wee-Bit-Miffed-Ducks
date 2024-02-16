@@ -1,0 +1,8 @@
+stage_name stage1.txt
+duck_num 7
+stage_num 1
+next_stage stage2.txt
+target 800 100
+target 500 250
+obstacle 750 300
+obstacle 750 250

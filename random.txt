@@ -1,0 +1,4 @@
+stage_name random.txt
+duck_num 10
+stage_num 1
+next_stage clear
